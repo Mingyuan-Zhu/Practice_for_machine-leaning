@@ -10,4 +10,8 @@ Some note and summary can be available here :
 
 
 ### felllow the books and videos to see the ML
-### date : 2019.7.1
+### date : 2019.10.1
+
+
+### Intro to SQL for Data Science
+### DATE:2019.10.9
